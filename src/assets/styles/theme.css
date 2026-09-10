@@ -49,9 +49,9 @@
 
     --text-default: #1a1a1a;
     --text-brand: #8b0000;
-    --text-on-brand: #ffffff;
-    --text-special: #556b2f;
-    --text-on-special: #ffffff;
+    --text-on-brand: #ffffff;            /* Texto sobre fondo */
+    --text-special: #556b2f;       
+    --text-on-special: #ffffff;          /* Texto sobre fondo */
     --text-muted: #5a403c;
     --text-error: #93000a;
 
